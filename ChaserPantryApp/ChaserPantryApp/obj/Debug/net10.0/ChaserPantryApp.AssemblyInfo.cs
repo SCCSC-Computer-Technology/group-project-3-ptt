@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChaserPantryApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8540fa90a22362441bc554489c9aa93fa265f6d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0df1c1d46efd8ec00164554f889913270afeb726")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChaserPantryApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChaserPantryApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
