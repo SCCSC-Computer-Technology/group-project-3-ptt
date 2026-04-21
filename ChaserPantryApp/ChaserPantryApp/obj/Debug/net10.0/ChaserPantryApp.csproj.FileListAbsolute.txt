@@ -289,7 +289,6 @@ C:\Users\Shawn\Documents\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\obj
 C:\Users\Shawn\Documents\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\obj\Debug\net10.0\ChaserPantryApp.pdb
 C:\Users\Shawn\Documents\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\obj\Debug\net10.0\ChaserPantryApp.genruntimeconfig.cache
 C:\Users\Shawn\Documents\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\obj\Debug\net10.0\ref\ChaserPantryApp.dll
-C:\Users\Shawn\Documents\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\obj\Debug\net10.0\compressed\5yv4wmagja-{0}-dc7zrv23fj-dc7zrv23fj.gz
 C:\GitHub\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\bin\Debug\net10.0\appsettings.Development.json
 C:\GitHub\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\bin\Debug\net10.0\appsettings.json
 C:\GitHub\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\bin\Debug\net10.0\ChaserPantryApp.staticwebassets.runtime.json
@@ -582,3 +581,4 @@ C:\GitHub\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\obj\Debug\net10.0\
 C:\GitHub\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\obj\Debug\net10.0\ChaserPantryApp.pdb
 C:\GitHub\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\obj\Debug\net10.0\ChaserPantryApp.genruntimeconfig.cache
 C:\GitHub\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\obj\Debug\net10.0\ref\ChaserPantryApp.dll
+C:\Users\Shawn\Documents\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\obj\Debug\net10.0\compressed\5yv4wmagja-{0}-6iq7pxrcdy-6iq7pxrcdy.gz
