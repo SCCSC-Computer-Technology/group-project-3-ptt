@@ -1,96 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GitHub\\group-project-3-ptt\\ChaserPantryApp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{4C4E0D8C-DA27-2A21-F6C1-54CC05B05DF5}|ChaserPantryApp\\ChaserPantryApp.csproj|c:\\github\\group-project-3-ptt\\chaserpantryapp\\chaserpantryapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4C4E0D8C-DA27-2A21-F6C1-54CC05B05DF5}|ChaserPantryApp\\ChaserPantryApp.csproj|solutionrelative:chaserpantryapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C4E0D8C-DA27-2A21-F6C1-54CC05B05DF5}|ChaserPantryApp\\ChaserPantryApp.csproj|c:\\github\\group-project-3-ptt\\chaserpantryapp\\chaserpantryapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C4E0D8C-DA27-2A21-F6C1-54CC05B05DF5}|ChaserPantryApp\\ChaserPantryApp.csproj|solutionrelative:chaserpantryapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C4E0D8C-DA27-2A21-F6C1-54CC05B05DF5}|ChaserPantryApp\\ChaserPantryApp.csproj|c:\\github\\group-project-3-ptt\\chaserpantryapp\\chaserpantryapp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4C4E0D8C-DA27-2A21-F6C1-54CC05B05DF5}|ChaserPantryApp\\ChaserPantryApp.csproj|solutionrelative:chaserpantryapp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C4E0D8C-DA27-2A21-F6C1-54CC05B05DF5}|ChaserPantryApp\\ChaserPantryApp.csproj|c:\\github\\group-project-3-ptt\\chaserpantryapp\\chaserpantryapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4C4E0D8C-DA27-2A21-F6C1-54CC05B05DF5}|ChaserPantryApp\\ChaserPantryApp.csproj|solutionrelative:chaserpantryapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\Shawn\\Documents\\group-project-3-ptt\\ChaserPantryApp\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\GitHub\\group-project-3-ptt\\ChaserPantryApp\\ChaserPantryApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ChaserPantryApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\GitHub\\group-project-3-ptt\\ChaserPantryApp\\ChaserPantryApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ChaserPantryApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAADEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-21T01:22:12.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\GitHub\\group-project-3-ptt\\ChaserPantryApp\\ChaserPantryApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ChaserPantryApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\GitHub\\group-project-3-ptt\\ChaserPantryApp\\ChaserPantryApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ChaserPantryApp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T01:17:28.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\GitHub\\group-project-3-ptt\\ChaserPantryApp\\ChaserPantryApp\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "ChaserPantryApp\\Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\GitHub\\group-project-3-ptt\\ChaserPantryApp\\ChaserPantryApp\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "ChaserPantryApp\\Views\\Home\\About.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-21T01:10:20.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\GitHub\\group-project-3-ptt\\ChaserPantryApp\\ChaserPantryApp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ChaserPantryApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\GitHub\\group-project-3-ptt\\ChaserPantryApp\\ChaserPantryApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ChaserPantryApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-21T01:05:07.52Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

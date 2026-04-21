@@ -1,6 +1,7 @@
 :root {
     --pantreats-blue: #102f61;
     --pantreats-blue-dark: #0c2954;
+    --pantreats-green: #8dc63f;
 }
 
 html, body {
@@ -51,7 +52,6 @@ body {
 .pantreats-navbar {
     background-color: var(--pantreats-blue);
     padding: 0.85rem 0;
-    box-shadow: 0 6px 18px rgba(0,0,0,0.12);
 }
 
 .pantreats-brand {
@@ -72,8 +72,12 @@ body {
 }
 
     .pantreats-nav-link:hover {
-        color: #ffffff !important;
+        color: var(--pantreats-green) !important;
     }
+
+a:hover {
+    color: var(--pantreats-green) !important;
+}
 
 .pantreats-navbar .navbar-toggler-icon {
     filter: invert(1);
@@ -103,7 +107,7 @@ body {
 }
 
     .pantreats-footer-link:hover {
-        color: #ffffff;
+        color: var(--pantreats-green);
     }
 
 .pantreats-hero-section,
@@ -183,8 +187,16 @@ body {
 }
 
     .pantreats-hero-section .btn-outline-light:hover {
-        background-color: rgba(255,255,255,0.1);
+        background-color: var(--pantreats-green) !important;
+        border-color: var(--pantreats-green) !important;
+        color: #ffffff !important;
     }
+
+.btn:hover {
+    background-color: var(--pantreats-green) !important;
+    border-color: var(--pantreats-green) !important;
+    color: #ffffff !important;
+}
 
 .hero-logo-panel {
     background: #ffffff;
