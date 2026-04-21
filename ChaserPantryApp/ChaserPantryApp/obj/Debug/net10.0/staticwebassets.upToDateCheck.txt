@@ -1,3 +1,4 @@
+wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\images\pantreatsLogo.png
 wwwroot\js\site.js
@@ -61,7 +62,7 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
-wwwroot\css\site.css
+C:\Users\Shawn\Documents\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\wwwroot\css\site.css
 C:\Users\Shawn\Documents\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\wwwroot\favicon.ico
 C:\Users\Shawn\Documents\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\wwwroot\js\site.js
 C:\Users\Shawn\Documents\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
@@ -123,4 +124,3 @@ C:\Users\Shawn\Documents\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\www
 C:\Users\Shawn\Documents\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\Users\Shawn\Documents\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\Shawn\Documents\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\wwwroot\lib\jquery\LICENSE.txt
-C:\Users\Shawn\Documents\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\wwwroot\css\site.css
