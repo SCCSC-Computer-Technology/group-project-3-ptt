@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KK2rXpfaMQs=",
+  "dgSpecHash": "cL4EHFzDdcw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Shawn\\Desktop\\PantryApp\\Pantreats\\Pantreats.csproj",
+  "projectFilePath": "C:\\Users\\Shawn\\Documents\\group-project-3-ptt\\PantryApp\\Pantreats\\Pantreats.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shawn\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\Shawn\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
@@ -145,9 +145,9 @@
       "code": "NU1901",
       "level": "Warning",
       "message": "Package 'NuGet.Packaging' 6.12.1 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
-      "projectPath": "C:\\Users\\Shawn\\Desktop\\PantryApp\\Pantreats\\Pantreats.csproj",
+      "projectPath": "C:\\Users\\Shawn\\Documents\\group-project-3-ptt\\PantryApp\\Pantreats\\Pantreats.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Shawn\\Desktop\\PantryApp\\Pantreats\\Pantreats.csproj",
+      "filePath": "C:\\Users\\Shawn\\Documents\\group-project-3-ptt\\PantryApp\\Pantreats\\Pantreats.csproj",
       "libraryId": "NuGet.Packaging",
       "targetGraphs": [
         "net10.0"
@@ -157,9 +157,9 @@
       "code": "NU1901",
       "level": "Warning",
       "message": "Package 'NuGet.Protocol' 6.12.1 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
-      "projectPath": "C:\\Users\\Shawn\\Desktop\\PantryApp\\Pantreats\\Pantreats.csproj",
+      "projectPath": "C:\\Users\\Shawn\\Documents\\group-project-3-ptt\\PantryApp\\Pantreats\\Pantreats.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Shawn\\Desktop\\PantryApp\\Pantreats\\Pantreats.csproj",
+      "filePath": "C:\\Users\\Shawn\\Documents\\group-project-3-ptt\\PantryApp\\Pantreats\\Pantreats.csproj",
       "libraryId": "NuGet.Protocol",
       "targetGraphs": [
         "net10.0"
