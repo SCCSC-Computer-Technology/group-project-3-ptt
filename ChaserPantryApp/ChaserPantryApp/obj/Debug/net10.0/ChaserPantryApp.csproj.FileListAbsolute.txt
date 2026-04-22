@@ -214,7 +214,6 @@ C:\GitHub\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\obj\Debug\net10.0\
 C:\GitHub\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\obj\Debug\net10.0\compressed\nezrqnk58p-{0}-muycvpuwrr-muycvpuwrr.gz
 C:\GitHub\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\obj\Debug\net10.0\compressed\v0zgfp0y55-{0}-87fc7y1x7t-87fc7y1x7t.gz
 C:\GitHub\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\obj\Debug\net10.0\compressed\yfc7ypekbg-{0}-mlv21k5csn-mlv21k5csn.gz
-C:\GitHub\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\obj\Debug\net10.0\compressed\5yv4wmagja-{0}-mpxmc3t69t-mpxmc3t69t.gz
 C:\GitHub\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\obj\Debug\net10.0\compressed\8ji3cm8u7b-{0}-61n19gt1b8-61n19gt1b8.gz
 C:\GitHub\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\obj\Debug\net10.0\compressed\h0eti3yltc-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\GitHub\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\obj\Debug\net10.0\compressed\wcdbqgj14n-{0}-t1cqhe9u97-t1cqhe9u97.gz
@@ -874,3 +873,4 @@ C:\FinalProject\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\obj\Debug\ne
 C:\FinalProject\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\obj\Debug\net10.0\ChaserPantryApp.genruntimeconfig.cache
 C:\FinalProject\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\obj\Debug\net10.0\ref\ChaserPantryApp.dll
 C:\FinalProject\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\obj\Debug\net10.0\compressed\5yv4wmagja-{0}-n5wdueak0k-n5wdueak0k.gz
+C:\GitHub\group-project-3-ptt\ChaserPantryApp\ChaserPantryApp\obj\Debug\net10.0\compressed\5yv4wmagja-{0}-x4sk880jkr-x4sk880jkr.gz
