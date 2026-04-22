@@ -52,6 +52,7 @@ body {
 .pantreats-navbar {
     background-color: var(--pantreats-blue);
     padding: 0.85rem 0;
+    border-bottom:3px solid #8dc63f;
 }
 
 .pantreats-brand {
@@ -257,6 +258,17 @@ a:hover {
     background: #f8fbf8;
     border-radius: 30px;
 }
+
+.auth-links a {
+    text-decoration: none;
+    transition: 0.2s ease;
+}
+
+    .auth-links a:hover {
+        color: #8dc63f;
+        text-decoration: underline;
+    }
+
 
 @media (max-width: 991.98px) {
     .pantreats-hero-section,
