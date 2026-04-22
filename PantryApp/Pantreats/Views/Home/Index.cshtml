@@ -53,39 +53,104 @@
 
         <div class="row g-4">
             <div class="col-md-6 col-xl-3">
-                <div class="info-card h-100 text-center p-4">
-                    <h5 class="fw-bold">Shop the Pantry</h5>
-                    <p class="text-muted mb-0">
-                        Use a virtual pantry experience to request food and select items that fit your household’s needs.
-                    </p>
-                </div>
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <a asp-area="Identity" asp-page="/Account/Shop" class="text-decoration-none">
+                        <div class="info-card h-100 text-center p-4">
+                            <h5 class="fw-bold">Shop the Pantry</h5>
+                            <p class="text-muted mb-0">
+                                Use a virtual pantry experience to request food and select items that fit your household’s needs.
+                            </p>
+                        </div>
+                    </a>
+                }
+                else
+                {
+                    <a asp-area="Identity" asp-page="/Account/Register" class="text-decoration-none">
+                        <div class="info-card h-100 text-center p-4">
+                            <h5 class="fw-bold">Shop the Pantry</h5>
+                            <p class="text-muted mb-0">
+                                Use a virtual pantry experience to request food and select items that fit your household’s needs.
+                            </p>
+                        </div>
+                    </a>
+                }
             </div>
 
             <div class="col-md-6 col-xl-3">
-                <div class="info-card h-100 text-center p-4">
-                    <h5 class="fw-bold">Apply Online</h5>
-                    <p class="text-muted mb-0">
-                        Register online, share household information, and complete intake without unnecessary barriers.
-                    </p>
-                </div>
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <a asp-area="Identity" asp-page="/Account/ApplyOnline" class="text-decoration-none">
+                        <div class="info-card h-100 text-center p-4">
+                            <h5 class="fw-bold">Apply Online</h5>
+                            <p class="text-muted mb-0">
+                                Register online, share household information, and complete intake without unnecessary barriers.
+                            </p>
+                        </div>
+                    </a>
+                }
+                else
+                {
+                    <a asp-area="Identity" asp-page="/Account/Register" class="text-decoration-none">
+                        <div class="info-card h-100 text-center p-4">
+                            <h5 class="fw-bold">Apply Online</h5>
+                            <p class="text-muted mb-0">
+                                Register online, share household information, and complete intake without unnecessary barriers.
+                            </p>
+                        </div>
+                    </a>
+                }
             </div>
 
             <div class="col-md-6 col-xl-3">
-                <div class="info-card h-100 text-center p-4">
-                    <h5 class="fw-bold">Book Visits</h5>
-                    <p class="text-muted mb-0">
-                        Schedule pantry visits or pickup times in a way that supports privacy, convenience, and campus life.
-                    </p>
-                </div>
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <a asp-area="Identity" asp-page="/Account/BookVisits" class="text-decoration-none">
+                        <div class="info-card h-100 text-center p-4">
+                            <h5 class="fw-bold">Book Visits</h5>
+                            <p class="text-muted mb-0">
+                                Schedule pantry visits or pickup times in a way that supports privacy, convenience, and campus life.
+                            </p>
+                        </div>
+                    </a>
+                }
+                else
+                {
+                    <a asp-area="Identity" asp-page="/Account/Register" class="text-decoration-none">
+                        <div class="info-card h-100 text-center p-4">
+                            <h5 class="fw-bold">Book Visits</h5>
+                            <p class="text-muted mb-0">
+                                Schedule pantry visits or pickup times in a way that supports privacy, convenience, and campus life.
+                            </p>
+                        </div>
+                    </a>
+                }
             </div>
 
+            
             <div class="col-md-6 col-xl-3">
-                <div class="info-card h-100 text-center p-4">
-                    <h5 class="fw-bold">Track Services</h5>
-                    <p class="text-muted mb-0">
-                        Record pantry visits, food distributions, referrals, and services provided across one or more locations.
-                    </p>
-                </div>
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <a asp-area="Identity" asp-page="/Account/TrackServices" class="text-decoration-none">
+                        <div class="info-card h-100 text-center p-4">
+                            <h5 class="fw-bold">Track Services</h5>
+                            <p class="text-muted mb-0">
+                                Record pantry visits, food distributions, referrals, and services provided across one or more locations.
+                            </p>
+                        </div>
+                    </a>
+                }
+                else
+                {
+                    <a asp-area="Identity" asp-page="/Account/Register" class="text-decoration-none">
+                        <div class="info-card h-100 text-center p-4">
+                            <h5 class="fw-bold">Track Services</h5>
+                            <p class="text-muted mb-0">
+                                Record pantry visits, food distributions, referrals, and services provided across one or more locations.
+                            </p>
+                        </div>
+                    </a>
+                }
             </div>
         </div>
     </div>
@@ -102,30 +167,30 @@
 
         <div class="row g-4">
             <div class="col-md-4">
-                <div class="step-card h-100 p-4 text-center">
-                    <h5 class="fw-bold">Create an Account</h5>
-                    <p class="text-muted mb-0">
-                        Students and pantry users can register online and securely enter household and contact information.
-                    </p>
-                </div>
+                        <div class="step-card h-100 p-4 text-center">
+                            <h5 class="fw-bold">Create an Account</h5>
+                            <p class="text-muted mb-0">
+                                Students and pantry users can register online and securely enter household and contact information.
+                            </p>
+                        </div>
             </div>
 
             <div class="col-md-4">
-                <div class="step-card h-100 p-4 text-center">
-                    <h5 class="fw-bold">Request Support</h5>
-                    <p class="text-muted mb-0">
-                        Apply for pantry services, shop available items, and choose pickup or service options that work best.
-                    </p>
-                </div>
+                        <div class="step-card h-100 p-4 text-center">
+                            <h5 class="fw-bold">Request Support</h5>
+                            <p class="text-muted mb-0">
+                                Apply for pantry services, shop available items, and choose pickup or service options that work best.
+                            </p>
+                        </div>
             </div>
 
             <div class="col-md-4">
-                <div class="step-card h-100 p-4 text-center">
-                    <h5 class="fw-bold">Serve and Track</h5>
-                    <p class="text-muted mb-0">
-                        Pantry staff and volunteers can manage inventory, appointments, visits, and reporting all in one platform.
-                    </p>
-                </div>
+                        <div class="step-card h-100 p-4 text-center">
+                            <h5 class="fw-bold">Serve and Track</h5>
+                            <p class="text-muted mb-0">
+                                Pantry staff and volunteers can manage inventory, appointments, visits, and reporting all in one platform.
+                            </p>
+                        </div>
             </div>
         </div>
     </div>
