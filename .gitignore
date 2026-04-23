@@ -1,0 +1,8 @@
+PantryApp/.vs/
+PantryApp/**/.vs/
+PantryApp/bin/
+PantryApp**/bin/
+PantryApp/obj/
+PantryApp**/obj/
+
+
