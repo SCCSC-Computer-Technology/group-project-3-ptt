@@ -64,7 +64,6 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
-C:\Users\Shawn\Documents\group-project-3-ptt\PantryApp\Pantreats\wwwroot\css\site.css
 C:\Users\Shawn\Documents\group-project-3-ptt\PantryApp\Pantreats\wwwroot\favicon.ico
 C:\Users\Shawn\Documents\group-project-3-ptt\PantryApp\Pantreats\wwwroot\js\site.js
 C:\Users\Shawn\Documents\group-project-3-ptt\PantryApp\Pantreats\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
@@ -126,3 +125,4 @@ C:\Users\Shawn\Documents\group-project-3-ptt\PantryApp\Pantreats\wwwroot\lib\jqu
 C:\Users\Shawn\Documents\group-project-3-ptt\PantryApp\Pantreats\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\Users\Shawn\Documents\group-project-3-ptt\PantryApp\Pantreats\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\Shawn\Documents\group-project-3-ptt\PantryApp\Pantreats\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\Shawn\Documents\group-project-3-ptt\PantryApp\Pantreats\wwwroot\css\site.css
