@@ -732,7 +732,6 @@ a:hover {
     }
 
 /* student pages */
-
 .student-page-header {
     display: flex;
     justify-content: space-between;
@@ -896,15 +895,189 @@ a:hover {
         border-color: var(--pantreats-green);
     }
 
+/* vendor pages */
+.vendor-page-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+}
+
+.vendor-page-title,
+.vendor-details-title {
+    color: #1f2937;
+    font-weight: 700;
+}
+
+.vendor-page-subtitle,
+.vendor-details-subtitle {
+    color: #64748b;
+}
+
+.vendor-actions {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+    .vendor-actions .btn {
+        border-radius: 999px;
+        font-weight: 600;
+        padding: 9px 18px;
+    }
+
+    .vendor-actions .btn-primary {
+        background-color: var(--pantreats-blue);
+        border-color: var(--pantreats-blue);
+        color: #ffffff;
+    }
+
+        .vendor-actions .btn-primary:hover {
+            background-color: var(--pantreats-blue-dark) !important;
+            border-color: var(--pantreats-blue-dark) !important;
+            color: #ffffff !important;
+        }
+
+    .vendor-actions .btn-outline-primary {
+        background-color: #ffffff;
+        color: var(--pantreats-blue);
+        border-color: rgba(16, 47, 97, 0.18);
+    }
+
+        .vendor-actions .btn-outline-primary:hover {
+            background-color: #f4f7fc !important;
+            border-color: rgba(16, 47, 97, 0.24) !important;
+            color: var(--pantreats-blue) !important;
+        }
+
+.vendor-card,
+.vendor-profile-card {
+    background: #ffffff;
+    border: 1px solid rgba(16, 47, 97, 0.12);
+    border-radius: 26px;
+    padding: 1.5rem;
+    box-shadow: 0 12px 28px rgba(16, 47, 97, 0.05);
+}
+
+.vendor-table {
+    border-collapse: separate;
+    border-spacing: 0;
+}
+
+    .vendor-table thead th {
+        color: #334155;
+        font-size: 14px;
+        font-weight: 700;
+        cursor: pointer;
+        background-color: #f8fbff;
+        border-bottom: 1px solid rgba(16, 47, 97, 0.12);
+        padding: 14px;
+        user-select: none;
+        transition: background-color 0.18s ease, color 0.18s ease;
+    }
+
+        .vendor-table thead th:hover {
+            background-color: #eef4fb;
+            color: var(--pantreats-blue);
+        }
+
+    .vendor-table tbody td {
+        color: #1f2937;
+        padding: 16px 14px;
+        border-bottom: 1px solid rgba(16, 47, 97, 0.08);
+        transition: background-color 0.18s ease, color 0.18s ease;
+    }
+
+.vendor-row,
+.vendor-history-row {
+    cursor: pointer;
+    transition: background-color 0.18s ease, box-shadow 0.18s ease;
+}
+
+    .vendor-row:hover,
+    .vendor-history-row:hover {
+        background-color: #f4f7fc;
+        box-shadow: inset 4px 0 0 var(--pantreats-green);
+    }
+
+        .vendor-row:hover td,
+        .vendor-history-row:hover td {
+            background-color: #f4f7fc;
+            color: #111827;
+        }
+
+.vendor-back-btn {
+    background-color: #ffffff;
+    color: var(--pantreats-blue);
+    border: 1px solid rgba(16, 47, 97, 0.16);
+    border-radius: 999px;
+    padding: 9px 18px;
+    font-weight: 600;
+}
+
+    .vendor-back-btn:hover {
+        background-color: #f4f7fc;
+        color: var(--pantreats-blue);
+    }
+
+.vendor-profile-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+}
+
+.vendor-profile-item {
+    background: #f8fbff;
+    border: 1px solid rgba(16, 47, 97, 0.12);
+    border-radius: 18px;
+    padding: 16px;
+}
+
+    .vendor-profile-item span {
+        display: block;
+        color: #64748b;
+        font-size: 14px;
+        margin-bottom: 4px;
+    }
+
+    .vendor-profile-item strong {
+        color: #1f2937;
+    }
+
+.vendor-history-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+}
+
+.vendor-section-title {
+    color: #1f2937;
+    font-weight: 700;
+}
+
+/* responsive */
 @media (max-width: 768px) {
-    .student-profile-grid {
+    .student-profile-grid,
+    .vendor-profile-grid {
         grid-template-columns: 1fr;
     }
 
     .student-search-box {
         width: 100%;
     }
+
+    .vendor-actions {
+        width: 100%;
+    }
+
+        .vendor-actions .btn {
+            width: 100%;
+        }
 }
+
 @media (max-width: 991.98px) {
     .admin-page-title {
         font-size: 2rem;

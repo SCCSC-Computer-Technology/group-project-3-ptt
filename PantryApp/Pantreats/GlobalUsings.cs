@@ -5,3 +5,5 @@ global using Microsoft.EntityFrameworkCore;
 
 global using Pantreats.Data;
 global using Pantreats.Models;
+
+global using System.ComponentModel.DataAnnotations;
