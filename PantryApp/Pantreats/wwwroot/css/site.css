@@ -712,6 +712,25 @@ a:hover {
         color: #ffffff !important;
     }
 
+.pantreats-dropdown-menu {
+    border: none;
+    border-radius: 16px;
+    padding: 10px;
+    box-shadow: 0 12px 35px rgba(15, 23, 42, 0.12);
+}
+
+.pantreats-dropdown-item {
+    border-radius: 10px;
+    padding: 9px 14px;
+    color: #1f2937;
+    font-weight: 500;
+}
+
+    .pantreats-dropdown-item:hover {
+        background-color: #eef6f3;
+        color: #17463a;
+    }
+
 @media (max-width: 991.98px) {
     .admin-page-title {
         font-size: 2rem;

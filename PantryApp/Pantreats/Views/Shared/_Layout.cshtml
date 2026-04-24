@@ -40,6 +40,77 @@
                                     <li class="nav-item">
                                         <a class="nav-link pantreats-nav-link" asp-controller="Admin" asp-action="Index">Dashboard</a>
                                     </li>
+
+                                    <li class="nav-item dropdown">
+                                        <a class="nav-link dropdown-toggle pantreats-nav-link" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                            Inventory
+                                        </a>
+                                        <ul class="dropdown-menu pantreats-dropdown-menu">
+                                            <li>
+                                                <a class="dropdown-item pantreats-dropdown-item" asp-controller="Inventory" asp-action="Index">View Inventory</a>
+                                            </li>
+                                            <li>
+                                                <a class="dropdown-item pantreats-dropdown-item" asp-controller="Inventory" asp-action="Create">Add Item</a>
+                                            </li>
+                                            <li>
+                                                <a class="dropdown-item pantreats-dropdown-item" asp-controller="Inventory" asp-action="LowStock">Low Stock</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+
+                                    <li class="nav-item dropdown">
+                                        <a class="nav-link dropdown-toggle pantreats-nav-link" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                            Student
+                                        </a>
+                                        <ul class="dropdown-menu pantreats-dropdown-menu">
+                                            <li>
+                                                <a class="dropdown-item pantreats-dropdown-item" asp-controller="Student" asp-action="Index">View Students</a>
+                                            </li>
+                                            <li>
+                                                <a class="dropdown-item pantreats-dropdown-item" asp-controller="Student" asp-action="Create">Add Student</a>
+                                            </li>
+                                            <li>
+                                                <a class="dropdown-item pantreats-dropdown-item" asp-controller="Student" asp-action="History">Student History</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+
+                                    <li class="nav-item dropdown">
+                                        <a class="nav-link dropdown-toggle pantreats-nav-link" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                            Vendor
+                                        </a>
+                                        <ul class="dropdown-menu pantreats-dropdown-menu">
+                                            <li>
+                                                <a class="dropdown-item pantreats-dropdown-item" asp-controller="Vendor" asp-action="Index">View Vendors</a>
+                                            </li>
+                                            <li>
+                                                <a class="dropdown-item pantreats-dropdown-item" asp-controller="Vendor" asp-action="Create">Add Vendor</a>
+                                            </li>
+                                            <li>
+                                                <a class="dropdown-item pantreats-dropdown-item" asp-controller="Vendor" asp-action="Donations">Vendor Donations</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+
+                                    <li class="nav-item dropdown">
+                                        <a class="nav-link dropdown-toggle pantreats-nav-link" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                            Reports
+                                        </a>
+                                        <ul class="dropdown-menu pantreats-dropdown-menu">
+                                            <li>
+                                                <a class="dropdown-item pantreats-dropdown-item" asp-controller="Reports" asp-action="Index">Report Dashboard</a>
+                                            </li>
+                                            <li>
+                                                <a class="dropdown-item pantreats-dropdown-item" asp-controller="Reports" asp-action="Inventory">Inventory Reports</a>
+                                            </li>
+                                            <li>
+                                                <a class="dropdown-item pantreats-dropdown-item" asp-controller="Reports" asp-action="Students">Student Reports</a>
+                                            </li>
+                                            <li>
+                                                <a class="dropdown-item pantreats-dropdown-item" asp-controller="Reports" asp-action="Usage">Pantry Usage</a>
+                                            </li>
+                                        </ul>
+                                    </li>
                                 }
 
                                 <li class="nav-item">
