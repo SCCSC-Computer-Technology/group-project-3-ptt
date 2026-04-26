@@ -6721,23 +6721,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Shawn\\.nuget\\packages\\": {},
+    "C:\\Users\\heinr\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shawn\\Documents\\group-project-3-ptt\\PantryApp\\Pantreats\\Pantreats.csproj",
+      "projectUniqueName": "C:\\Group-Project-3\\group-project-3-ptt\\PantryApp\\Pantreats\\Pantreats.csproj",
       "projectName": "Pantreats",
-      "projectPath": "C:\\Users\\Shawn\\Documents\\group-project-3-ptt\\PantryApp\\Pantreats\\Pantreats.csproj",
-      "packagesPath": "C:\\Users\\Shawn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shawn\\Documents\\group-project-3-ptt\\PantryApp\\Pantreats\\obj\\",
+      "projectPath": "C:\\Group-Project-3\\group-project-3-ptt\\PantryApp\\Pantreats\\Pantreats.csproj",
+      "packagesPath": "C:\\Users\\heinr\\.nuget\\packages\\",
+      "outputPath": "C:\\Group-Project-3\\group-project-3-ptt\\PantryApp\\Pantreats\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Shawn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\heinr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -6746,6 +6746,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
