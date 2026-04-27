@@ -37,11 +37,25 @@
             Behind every pantry visit is a team of dedicated volunteers who make it possible.<br />
             Be the change and volunteer today!
         </p>
-        <div>
-            <a asp-area="Identity" asp-page="/Account/Register" class="btn btn-outline-light btn-lg hero-secondary-btn px-4">
-                Volunteer
-            </a>
-        </div>
+        @if (User.Identity?.IsAuthenticated ?? false)
+        {
+            <div>
+                <a asp-controller="Surveys" asp-action="Volunteer"
+                       class="btn btn-outline-light btn-lg hero-secondary-btn px-4">
+                    Volunteer
+                </a>
+            </div>
+        }
+        else
+        {
+            <div>
+                <a asp-area="Identity" asp-page="/Account/Register"
+                       class="btn btn-outline-light btn-lg hero-secondary-btn px-4">
+                    Volunteer
+                </a>
+            </div>
+        }
+
     </div>
 
     <img src="~/images/volunteerpic.jpg" alt="Volunteers" class="volunteer-img" />

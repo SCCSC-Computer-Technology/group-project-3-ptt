@@ -8,5 +8,6 @@ namespace Pantreats.Data
     {
         public DbSet<Vendor> Vendors { get; set; } = default!;
         public DbSet<UserApplication> UserApplications { get; set; }
+        public DbSet<VolunteerApplication> VolunteerApplications { get; set; }
     }
 }
