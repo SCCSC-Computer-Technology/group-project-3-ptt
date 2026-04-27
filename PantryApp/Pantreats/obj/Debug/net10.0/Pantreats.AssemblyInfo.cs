@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pantreats")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5a2c73fc0b5cbcb2caf671c9a3c826582b5ee2f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+839f307bc2a748a921390c019de8df8884ae9f55")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pantreats")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pantreats")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
