@@ -7,5 +7,6 @@ namespace Pantreats.Data
     public class ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : IdentityDbContext(options)
     {
         public DbSet<Vendor> Vendors { get; set; } = default!;
+        public DbSet<UserApplication> UserApplications { get; set; }
     }
 }
