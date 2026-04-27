@@ -1,5 +1,14 @@
 Welcome to the Chaser's Pantry App for Group Project 3!
 
+admin acct
+  admin@admin.com
+
+student acct
+  student@student.com
+
+password for both
+  Admin_123
+
 Due Date: 
 
 Contributors:  
