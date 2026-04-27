@@ -144,7 +144,7 @@ namespace Pantreats.Areas.Identity.Pages.Account
 
                         if (await _userManager.IsInRoleAsync(user, "Students"))
                         {
-                            return RedirectToAction("Index", "Student");
+                            return RedirectToAction("Index", "Home");
                         }
 
                         if (await _userManager.IsInRoleAsync(user, "Volunteers"))
