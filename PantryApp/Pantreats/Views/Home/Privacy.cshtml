@@ -408,12 +408,5 @@
         }, { threshold: 0.2 });
 
         document.querySelectorAll('.fade-up').forEach(el => observer.observe(el));
-
-        function copyPhone() {
-            navigator.clipboard.writeText('(864) 592-4424');
-            const toast = document.getElementById('copyToast');
-            toast.classList.add('show');
-            setTimeout(() => toast.classList.remove('show'), 2000);
-        }
     </script>
 }
