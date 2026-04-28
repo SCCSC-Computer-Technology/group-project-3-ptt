@@ -1,0 +1,38 @@
+﻿@model List<Pantreats.Models.Inventory>
+@{
+    ViewData["Title"] = "Inventory";
+}
+
+<h1>PanTreats Invetory</h1>
+
+<table class="table table-bordered">
+    <thread>
+        <tr>
+            <th>UPC</th>
+            <th>Name</th>
+            <th>Brand</th>
+            <th>Category</th>
+            <th>Subcategory</th>
+            <th>Use</th>
+            <th>Unity Size</th>
+            <th>Quantity</th>
+        </tr>
+    </thread>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.UPC</td>
+                <td>@item.ItemName</td>
+                <td>@item.BrandName</td>
+                <td>@item.Category</td>
+                <td>@item.Subcategory</td>
+                <td>@item.GenderUse</td>
+                <td>@item.UnitSize</td>
+                <td>@item.Quantity</td>
+            </tr>
+        }
+        
+    </tbody>
+
