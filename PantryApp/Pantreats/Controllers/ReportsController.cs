@@ -67,6 +67,7 @@ namespace Pantreats.Controllers
 
             var fileName = "InventoryReport.xlsx";
 
+            //designates download type
             return File(
                 stream.ToArray(),
                 "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
