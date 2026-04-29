@@ -224,6 +224,29 @@ namespace Pantreats.Data.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
+            modelBuilder.Entity("Pantreats.Models.ItemRequest", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("RequestedItem")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("SelectedItems")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("UserName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("ItemRequest");
+                });
+
             modelBuilder.Entity("Pantreats.Models.UserApplication", b =>
                 {
                     b.Property<int>("ApplicationId")
