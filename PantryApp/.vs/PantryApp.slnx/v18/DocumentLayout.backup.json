@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rae50\\source\\repos\\group-project-3-ptt\\PantryApp\\",
+  "WorkspaceRootPath": "C:\\Group-Project-3\\group-project-3-ptt\\PantryApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16DCD556-8886-3549-888E-9D8A33369F10}|Pantreats\\Pantreats.csproj|c:\\users\\rae50\\source\\repos\\group-project-3-ptt\\pantryapp\\pantreats\\areas\\identity\\pages\\account\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{16DCD556-8886-3549-888E-9D8A33369F10}|Pantreats\\Pantreats.csproj|solutionrelative:pantreats\\areas\\identity\\pages\\account\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{16DCD556-8886-3549-888E-9D8A33369F10}|Pantreats\\Pantreats.csproj|c:\\group-project-3\\group-project-3-ptt\\pantryapp\\pantreats\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16DCD556-8886-3549-888E-9D8A33369F10}|Pantreats\\Pantreats.csproj|solutionrelative:pantreats\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Shop.cshtml",
-              "DocumentMoniker": "C:\\Users\\rae50\\source\\repos\\group-project-3-ptt\\PantryApp\\Pantreats\\Areas\\Identity\\Pages\\Account\\Shop.cshtml",
-              "RelativeDocumentMoniker": "Pantreats\\Areas\\Identity\\Pages\\Account\\Shop.cshtml",
-              "ToolTip": "C:\\Users\\rae50\\source\\repos\\group-project-3-ptt\\PantryApp\\Pantreats\\Areas\\Identity\\Pages\\Account\\Shop.cshtml",
-              "RelativeToolTip": "Pantreats\\Areas\\Identity\\Pages\\Account\\Shop.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-29T01:46:23.471Z",
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Group-Project-3\\group-project-3-ptt\\PantryApp\\Pantreats\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "Pantreats\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Group-Project-3\\group-project-3-ptt\\PantryApp\\Pantreats\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "Pantreats\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T03:24:28.327Z",
               "EditorCaption": ""
             }
           ]
