@@ -192,7 +192,23 @@
         </div>
 
         <div class="row g-4">
+            <div class="col-md-6 col-xl-4">
+                <div class="admin-tile">
+                    <div class="admin-tile-content">
+                        <h3 class="admin-tile-title">Item Requests</h3>
 
+                        <p class="admin-tile-text">
+                            Review pantry requests submitted by users.
+                        </p>
+                    </div>
+
+                    <a asp-area="Identity"
+                           asp-page="/Account/ItemRequests"
+                           class="btn admin-tile-btn">
+                        View Requests
+                    </a>
+                </div>
+            </div>
             <div class="col-md-6 col-xl-4">
                 <div class="admin-tile">
                     <div class="admin-tile-content">
